@@ -65,7 +65,7 @@ export const europeanFeast = [
   {
     name: 'Жульен с грибами',
     description: 'Грибное рагу с сыром и сливками.',
-    image: require('./product_1.jpg'),
+    image: require('./product_10.jpg'),
     price: 28,
     count: 1,
   },
